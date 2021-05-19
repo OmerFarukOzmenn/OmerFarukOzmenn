@@ -1,5 +1,5 @@
 
-[LinkedIn](www.linkedin.com/in/omer-faruk-ozmen-412103157)
+[LinkedIn](https://www.linkedin.com/in/omer-faruk-ozmen-412103157)
 
 
 
