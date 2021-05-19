@@ -1,5 +1,5 @@
 
-[LinkedIn](https://www.linkedin.com/in/omer-faruk-ozmen-412103157)
+:black_nib:[LinkedIn](https://www.linkedin.com/in/omer-faruk-ozmen-412103157)
 
 
 
