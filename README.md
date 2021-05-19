@@ -1,6 +1,6 @@
 
 :black_nib:[LinkedIn](https://www.linkedin.com/in/omer-faruk-ozmen-412103157)
-:outbox_tray:[Email contact](omerfarukozmen0@gmail.com)
+:outbox_tray:Email contact: omerfarukozmen0@gmail.com
 
 
 
