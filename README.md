@@ -1,7 +1,6 @@
 
 :black_nib:[LinkedIn](https://www.linkedin.com/in/omer-faruk-ozmen-412103157)
 <br>:outbox_tray:Email contact: omerfarukozmen0@gmail.com
-<br>:telephone_receiver: Phone number: +90 541 404 8256
 
 
 
