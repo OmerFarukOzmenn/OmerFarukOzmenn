@@ -6,8 +6,8 @@
 
 
 
-[![ github stats](https://github-readme-stats.vercel.app/api?username=OmerFarukOzmenn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/OmerFarukOzmenn/github-readme-stats)
+[![ github stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-ozmen&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/OmerFarukOzmenn/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukOzmenn)](https://github.com/OmerFarukOzmenn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-faruk-ozmen)](https://github.com/OmerFarukOzmenn/github-readme-stats)
