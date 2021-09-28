@@ -6,8 +6,8 @@
 
 
 
-[![ github stats](https://github-readme-stats.vercel.app/api?username=omer-faruk-ozmen&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/OmerFarukOzmenn/github-readme-stats)
+<p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=omer-faruk-ozmen&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></p>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-faruk-ozmen)](https://github.com/OmerFarukOzmenn/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-faruk-ozmen&layout=compact" alt="shely"/></p>
