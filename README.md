@@ -1,5 +1,11 @@
 ### About Me
-Hello 👋 I am a software developer. I develop various projects using multi-layered architecture and microservice architecture. In these projects, I use technologies such as .NET Core, RabbitMQ, Redis, MongoDB, Docker. I am learning microservice architecture in detail and trying to improve myself in this field.<br>I am interested in web applications, desktop applications and api applications. I share my projects on my GitHub profile. If you want to contact me, you can use the following channels:
+Hello 👋 I am a software developer.<br/>
+🖱️I develop various projects using multi-layered architecture and microservice architecture.<br/>
+⚒️In these projects, I use technologies such as .NET Core, RabbitMQ, Redis, MongoDB, Docker.<br/>
+📖I am learning microservice architecture in detail and trying to improve myself in this field.<br/>
+🧑🏽‍💻I am interested in web applications, desktop applications and api applications.<br/>
+📨I share my projects on my GitHub profile.<br/>
+📝If you want to contact me, you can use the following channels:<br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-faruk-ozmen/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omer-faruk-ozmen)
